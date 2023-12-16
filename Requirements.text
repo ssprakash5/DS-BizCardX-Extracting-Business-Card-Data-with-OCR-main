@@ -1,0 +1,6 @@
+import streamlit as st
+from PIL import Image
+import easyocr
+import mysql.connector
+import numpy as np
+import re
